@@ -1,8 +1,8 @@
 ### Howdy 👋
 
-- 🌱  I’m currently persuing for my Master degree in CS
+- 🌱  I’m persuing my Master's degree of CS
 - 🔭  I’m currently looking for a job
-- 💬  Language: (Java == Python) > (C++ == C)
+- 💬  Language: *(Java == Python) > (C++ == C)*
 - 📫  How to reach me: [Email](shanewongms@outlook.com)
 
 <!--
