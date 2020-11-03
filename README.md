@@ -2,7 +2,7 @@
 
 - 🌱  I’m persuing my Master's degree of CS
 - 🔭  I’m currently looking for a job
-- 💬  Language: *(Java == Python) > (C++ == C)*
+- 💬  Tech Stack: *(Java == Python) > (C++ == C) > Go*
 <!-- 📫  How to reach me: [Email](shanewongms@outlook.com) -->
 
 <!--
