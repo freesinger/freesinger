@@ -1,9 +1,9 @@
 ### Howdy 👋
 
-- 🌱  I’m persuing my Master's degree of CS
-- 🔭  ~I’m currently looking for a job~
+🌱  I’m persuing my Master's degree of CS
+<!-- 🔭  ~I’m currently looking for a job~ 
 - 💬  Tech Stack: *(Java == Python) > (C++ == C) > Go*
-<!-- 📫  How to reach me: [Email](shanewongms@outlook.com) -->
+ 📫  How to reach me: [Email](shanewongms@outlook.com) -->
 
 <!--
 **freesinger/freesinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
