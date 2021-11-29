@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-🌱  I’m persuing my Master's degree of CS
+🔭 Big Data, Cloud Computing, Software architecture
 <!-- 🔭  ~I’m currently looking for a job~ 
 - 💬  Tech Stack: *(Java == Python) > (C++ == C) > Go*
  📫  How to reach me: [Email](shanewongms@outlook.com) -->
@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
