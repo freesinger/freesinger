@@ -1,6 +1,10 @@
 ### Howdy 👋
 
 🔭 Big Data, Cloud Computing, Software architecture
+
+[![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=freesinger&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- 🔭  ~I’m currently looking for a job~ 
 - 💬  Tech Stack: *(Java == Python) > (C++ == C) > Go*
  📫  How to reach me: [Email](shanewongms@outlook.com) -->
